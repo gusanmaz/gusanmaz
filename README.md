@@ -18,3 +18,7 @@
 * [Data Structures 📍 2021-2022 Spring](https://github.com/gusanmaz/BMB212_Algorithms)
 * [Web Programming 📍 2022-2023 Fall](https://github.com/gusanmaz/BMB315_Web)
 * [Object Oriented Programming in C# 📍 2022-2023 Fall](https://github.com/gusanmaz/BMB203_OOP)
+
+### NKU Exam Clasroom and Seat Locator (NKU Sinav Bulucu)
+
+* [NKU Sinav Bulucu](https://www.gusanmaz.me/sinav)
